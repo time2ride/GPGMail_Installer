@@ -1,0 +1,2 @@
+This is an inofficial package that includes a Plugin for Apple Mail to sign, encrypt and decrypt pgp-messages.
+For additional information please visit the official Homepage http://gpgmail.org .
