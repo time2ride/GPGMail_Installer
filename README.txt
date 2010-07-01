@@ -5,7 +5,7 @@ Current version of the bundle:
 
 To see which commit the submodule is pointing to, run "git submodules", the number before GPGMail is the reference point.
 
-To get the newest version og GPGMail do:
+To get the newest version of GPGMail do:
 cd GPGMail
 git checkout HEAD
 
