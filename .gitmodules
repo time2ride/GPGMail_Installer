@@ -1,0 +1,3 @@
+[submodule "GPGMail"]
+	path = GPGMail
+	url = git://github.com/gpgmail/GPGMail.git
