@@ -1,9 +1,11 @@
-This is only the Installer for the GPGMail project (http://gpgmail.org).
+This is only the Installer for the GPGMail project (http://www.gpgmail.org).
 Please visit the development page for GPGMail on github http://github.com/gpgmail/GPGMail for any bugreports or support.
 
 Current version of the bundle:
 
-To see which commit the submodule is pointing to, run "git submodules", the number before GPGMail is the reference point.
+To see which commit the submodule is pointing to, run "git submodule", the number before GPGMail is the reference point.
+
+To easily resolve all dependencies (eg. init submodules and update them) run "./resolve-dependencies.sh".
 
 To get the newest version of GPGMail do:
 cd GPGMail
