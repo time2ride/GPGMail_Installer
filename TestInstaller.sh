@@ -66,7 +66,7 @@ assert "1" "$_installerExist" "Installer should exist";
 # Run
 ################################################
 echo "Installing...";
-installer -pkg "$_installer" -target "`whoami`" > $0.log 2>&1;
+installer -pkg "$_installer" -target ~/ > $0.log 2>&1;
 assert "0" "$?" "Installation should have been successful"
 ################################################
 
